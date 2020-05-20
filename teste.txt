@@ -8,3 +8,6 @@ alterado na master remota
 alterado na master local
 bbbbbbb local
 aaaaaaa remoto
+
+
+rebaseeeeeeeeeeeeeeeeeee
