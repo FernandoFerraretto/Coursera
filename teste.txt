@@ -6,3 +6,5 @@ dd 1
 dd 2
 alterado na master remota
 alterado na master local
+
+aaaaaaa remoto
